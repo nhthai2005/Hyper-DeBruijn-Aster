@@ -7,15 +7,16 @@ Dept. of Telecommunication Engineering
 HoChiMinh City of University Technology - Vietnam
 ncngoc@hcmut.edu.vn, nhthai2005@gmail.com, minhtriphamlth@yahoo.com
 
-## Abstract. In this article, we investigate the properties of Hyper-de Bruijn-Aster Networks in
+## Abstract. 
+In this article, we investigate the properties of Hyper-de Bruijn-Aster Networks in
 order to evolve the Fault Tolerance, Shortest Path Routing applying into the network of
 multiprocessor’s application, parallel processing systems.
 By giving new method of routing basing on features of duplex mapping in Hyper-DeBruijn-Aster
 Network, we can achieve more possibilities in routing than other recent researches that refers to
 increase the performance of Fault Tolerance and Shortest Path Routing.
 
-## Index Terms. de Bruijn graph, Hypercube graph, hyper-deBruijn, hyper-deBruijn-Aster, shortest
-path, fault tolerant, interconnection networ
+## Index Terms. 
+de Bruijn graph, Hypercube graph, hyper-deBruijn, hyper-deBruijn-Aster, shortest path, fault tolerant, interconnection networ
 
 ## Chương 1: TỔNG QUAN VỀ SERVER LOAD BALANCING 
 
