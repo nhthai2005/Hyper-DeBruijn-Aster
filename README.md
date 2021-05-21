@@ -16,7 +16,7 @@ Network, we can achieve more possibilities in routing than other recent research
 increase the performance of Fault Tolerance and Shortest Path Routing.
 
 ## Index Terms. 
-de Bruijn graph, Hypercube graph, hyper-deBruijn, hyper-deBruijn-Aster, shortest path, fault tolerant, interconnection networ
+de Bruijn graph, Hypercube graph, hyper-deBruijn, hyper-deBruijn-Aster, shortest path, fault tolerant, interconnection network
 
 ## Chương 1: TỔNG QUAN VỀ SERVER LOAD BALANCING 
 
